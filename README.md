@@ -74,18 +74,3 @@ I am a frontend developer who is learning redux, a state management library for 
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

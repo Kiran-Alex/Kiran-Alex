@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I am a frontend developer who is learning redux, a state management library for React. I already have experience with React, HTML, CSS, and JavaScript, and I enjoy creating beautiful and responsive web designs. I am currently working on a personal project to build a Twitter frontend clone using React and redux. This project will help me practice my skills and showcase my portfolio. I am looking forward to learning more about redux and how it can improve my workflow and performance.  
+I am a frontend developer who is learning redux, a state management library for React. I already have experience with React, Redux, HTML, CSS, and JavaScript, and I enjoy creating beautiful and responsive web designs. I am currently working on a personal project to build a Twitter frontend clone using React and redux. This project will help me practice my skills and showcase my portfolio. I am looking forward to learning more about redux and how it can improve my workflow and performance.  
   
 
 <br/>  

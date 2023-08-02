@@ -27,10 +27,10 @@ Currently, I am actively learning Web3, while simultaneously showcasing my profi
 - 🔭 I’m currently working on [Trading platform] 
   
 
-- 🌱 I’m currently learning Redux  
+- 🌱 I’m currently learning Wagmi 
   
 
-- ❓ Ask me about anything related to React and Javascript  
+- ❓ Ask me about anything related to MERN Stack  
 
 
 </td><td valign="top" width="50%">

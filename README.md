@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I am a frontend developer who is learning redux, a state management library for React. I already have experience with React, Redux, HTML, CSS, and JavaScript, and I enjoy creating beautiful and responsive web designs. I am currently working on a personal project to build a Twitter frontend clone using React and redux. This project will help me practice my skills and showcase my portfolio. I am looking forward to learning more about redux and how it can improve my workflow and performance.  
+Currently, I am actively learning Web3, while simultaneously showcasing my proficiency as a skilled Full Stack MERN developer with expertise in both frontend and backend development. With a strong foundation in React, Redux, HTML, CSS, JavaScript, and the MERN stack, I am well-equipped to create impressive user interfaces and robust server-side applications. My journey into Web3 represents a new chapter in my development career, and I am excited to leverage this knowledge to build cutting-edge decentralized applications and contribute to the ever-evolving world of blockchain technology.
   
 
 <br/>  
@@ -24,7 +24,7 @@ I am a frontend developer who is learning redux, a state management library for 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Twitter Frontend Clone](https://github.com/Kiran-Alex)  
+- 🔭 I’m currently working on [Trading platform] 
   
 
 - 🌱 I’m currently learning Redux  

@@ -23,11 +23,10 @@ Currently, I am actively learning Web3, while simultaneously showcasing my profi
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Trading platform] 
+ 
   
 
-- 🌱 I’m currently learning Wagmi 
+- 🌱 I’m currently learning zod and google cloud
   
 
 - ❓ Ask me about anything related to MERN Stack  

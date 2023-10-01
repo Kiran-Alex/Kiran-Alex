@@ -1,4 +1,4 @@
-## Kirat !! Please Review my tradz repo , i made it public
+## Kirat !! Please Review my tradz repo , i made it public  https://github.com/Kiran-Alex/Tradz
   
 
 <a href="https://github.com/Kiran-Alex" target="_blank">

@@ -1,4 +1,4 @@
-## Hey 👋, I'm Kiran Alex!  
+## Kirat !! Please Review my tradz repo , i made it public
   
 
 <a href="https://github.com/Kiran-Alex" target="_blank">

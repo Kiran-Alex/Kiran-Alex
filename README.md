@@ -35,7 +35,7 @@ https://react-twitter-clone-tau.vercel.app/
 
 - ❓ Ask me about anything related to MERN Stack
 
-- - 🌱 I’m currently learning zod and MonoRepos
+-  🌱 I’m currently learning zod and MonoRepos
 
 
 </td><td valign="top" width="50%">

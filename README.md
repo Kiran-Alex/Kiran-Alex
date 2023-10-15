@@ -14,9 +14,13 @@
 
 
 
-### Glad to see you here!  
+### Glad to see you here!  Here are my Deployed Projects Links
 
-  
+https://tradz.vercel.app/
+
+https://react-twitter-clone-tau.vercel.app/
+
+I do Open Source Contributions too 😊
 
 <br/>  
 
@@ -26,7 +30,7 @@
  
   
 
-- 🌱 I’m currently learning zod and google cloud
+- 🌱 I’m currently learning zod and MonoRepos
   
 
 - ❓ Ask me about anything related to MERN Stack  

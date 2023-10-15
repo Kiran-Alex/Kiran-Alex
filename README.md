@@ -20,7 +20,7 @@ https://tradz.vercel.app/
 
 https://react-twitter-clone-tau.vercel.app/
 
-I do Open Source Contributions too 😊
+
 
 <br/>  
 
@@ -30,10 +30,12 @@ I do Open Source Contributions too 😊
  
   
 
-- 🌱 I’m currently learning zod and MonoRepos
-  
 
-- ❓ Ask me about anything related to MERN Stack  
+- 😊 I do Open Source Contributions too
+
+- ❓ Ask me about anything related to MERN Stack
+
+- - 🌱 I’m currently learning zod and MonoRepos
 
 
 </td><td valign="top" width="50%">

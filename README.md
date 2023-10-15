@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-Currently, I am actively learning Web3, while simultaneously showcasing my proficiency as a skilled Full Stack MERN developer with expertise in both frontend and backend development. With a strong foundation in React, Redux, HTML, CSS, JavaScript, and the MERN stack, I am well-equipped to create impressive user interfaces and robust server-side applications. My journey into Web3 represents a new chapter in my development career, and I am excited to leverage this knowledge to build cutting-edge decentralized applications and contribute to the ever-evolving world of blockchain technology.
+
   
 
 <br/>  

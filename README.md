@@ -17,11 +17,11 @@
 
 ### Glad to see you here!  Here are my Deployed Projects Links
 
+http://courseco.kiranalexch.me/
+
 https://tradz.vercel.app/
 
 https://react-twitter-clone-tau.vercel.app/
-
-http://courseco.kiranalexch.me/
 
 
 

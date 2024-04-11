@@ -15,13 +15,9 @@
 [![An image of @kiranalex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kiranalex)](https://holopin.io/@kiranalex)
 
 
-### Glad to see you here!  Here are my Deployed Projects Links
+### Glad to see you here!  Checkout my Portfolio
 
-http://courseco.kiranalexch.me/
-
-https://tradz.vercel.app/
-
-https://react-twitter-clone-tau.vercel.app/
+http://kiranalexch.tech/
 
 
 

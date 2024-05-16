@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kiranalexch.tech/](https://kiranalexch.tech/)
 
-- 📄 Resume [Link](https://drive.google.com/file/d/1c9jzrOD79eo3JLFGh46zctiGGmup7V5w/view?usp=sharing)
+- 📄 Resume [Link](https://drive.google.com/file/d/1e3cL3d1RCXSMvLNFoAVV58DH3yxwhhn9/view?usp=sharing)
 
 - 💬 Ask me about **T3 stack, MERN Stack and Fast API**
 
